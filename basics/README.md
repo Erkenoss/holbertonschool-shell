@@ -8,3 +8,4 @@ add 5-listfilesdigitonly with ls -na
 add 6-firstdirectory with mkdir /path
 add 7-movethatfile with mv /path
 add 8-firstdelete with rm /path
+add 9-firstdirdeletion with rmdir /path
