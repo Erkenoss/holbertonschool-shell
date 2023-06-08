@@ -9,3 +9,5 @@ add 6-firstdirectory with mkdir /path
 add 7-movethatfile with mv /path
 add 8-firstdelete with rm /path
 add 9-firstdirdeletion with rmdir /path
+add 10-back with cd -
+add 11-lists with ls -al . .. /path 
