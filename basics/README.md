@@ -13,4 +13,7 @@ add 10-back with cd -
 add 11-lists with ls -al . .. /path
 add 12-file_type with file /path
 add 13-symbolic_link with ln /path
-add 14-copy_html 
+add 14-copy_html with cp -u
+add 15-lets_move with mv [A-Z]*
+add 16-clean-emacs with rm *~
+add 17-tree with mkdir -p name/path 
