@@ -1,2 +1,2 @@
 #!/bin/bash
-printf '%u' $((2#BINARY))
+printf '%u\n' $((2#BINARY))
