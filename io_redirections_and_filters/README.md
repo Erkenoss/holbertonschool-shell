@@ -12,7 +12,7 @@ Add 5-firstlines with head /etc/passwd. Show the first 10 lines in the file pass
 
 Add 6-third_line with head -3 iacta | tail -1. Display the third line of iacta
 
-add 7-file with echo 'Best School' > '\*\\'\''"Best School"\'\''\\*$\?\*\*\*\*\*:)'. Create a file name '\*\\'\''"Best School"\'\''\\*$\?\*\*\*\*\*:)' which containt Best School.
+add 7-file with echo 'Best School' > '\*\\'\''"Best School"\'\''\\*$\?\*\*\*\*\*:)'. Create a file name '\*\\'\''"Best School"\'\''\\*$\?\*\*\*\*\*:)' which containt Best School. Do not read the file name in github, it's obsviously not the same name as expected but the presentation of the file name is correct.
 
 Add 8-cwd_state with ls -la > ls_cwd_content. Overwrite the last content in ls_cwd_content for replace it by the result of ls -la.
 
